@@ -1,2 +1,1 @@
-## Experiment name
-Implement concrete class model using C++ /Java
+## Implement concrete class model using C++ /Java
