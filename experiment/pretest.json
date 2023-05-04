@@ -1,39 +1,49 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question":"1. The process of creating an object from a class is known as",
+        "answers":{
+            "a": "a.Interfacing",
+            "b": "b.Instantiating",
+            "c": "c.Initializing",
+            "d": "d.None of the options"
+      
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
     },
+    
+
     {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "question": "2. Which of these is not true about static methods?",
+        "answers": {
+          "a": "a.It cannot access non static data.",
+          "b": "b.It belongs to the object and not the class.",
+          "c": "c.It can be accessed directly by the class name and doesn’t need any object.",
+          "d": "d.Can call only other static methods and cannot call a non-static method from it."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+
+      {
+        "question": "3.Identify the access rules of      i. static methods accessing non static methods.        ii. non static methods accessing static methods.",
+        "answers": {
+          "a": "a.static methods can access non-static method only through objects.",
+          "b": "b.non-static methods can access static methods directly or through the class.",
+          "c": "c.static methods can access non-static method using this keyword.",
+          "d": "d.non-static methods can access static methods using static keyword."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "a,b",
+        "difficulty": "beginner"
+
     }
-  ]
-}
+    ]
+      }
