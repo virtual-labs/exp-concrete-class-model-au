@@ -1,0 +1,48 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question":"1.Show the definition for a method called myMethod that 1) is visible outside the class and can only access class variables, 2) returns an array of integers, and 3) accepts two parameters which are a String and double, in that order.",
+      "answers":{
+          "a": "a.public static int[] myMethod(String param1, double param2){ ... }",
+          "b": "b.public int[] myMethod(String param1, double param2){ ... }",
+          "c": "c.public []int myMethod(String param1, double param2){ ... }",
+          "d": "d.public static[] int myMethod(String param1, double param2){ ... }"
+    
+    },
+    "explanations": {
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+  },
+
+{
+      "question": "2.Which of the following statements is true about the concrete class model in Java?",
+      "answers": {
+        "a": "a.A concrete class is a class that cannot be instantiated, but can be used as a base class for other classes.",
+        "b": "b.A concrete class is a class that can be instantiated, and can contain both abstract and non-abstract methods.",
+        "c": "c.A concrete class is a class that can be instantiated, but can only contain non-abstract methods.",
+        "d": "d.A concrete class is a class that can be instantiated, but cannot contain any methods."
+      },
+      "explanations": {
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "3.Which of the following methods and variables would be appropriate for the Customer class in the Release a Vehicle use case scenario?",
+      "answers": {
+        "a": "a.Methods: makeReservation(), cancelReservation(), Variables: customerName, customerAddress",
+        "b": "b.Methods: releaseVehicle(), cancelReservation(), Variables: vehicleType, rentalDate",
+        "c": "c.Methods: makePayment(), cancelReservation(), Variables: reservationNumber, totalCost",
+        "d": "d.Methods: makePayment(), releaseVehicle(), Variables: rentalDuration, pickupLocation"
+      },
+      "explanations": {
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+
+  }
+  ]
+    }
