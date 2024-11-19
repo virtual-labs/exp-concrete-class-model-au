@@ -23,7 +23,9 @@ Experiment 2 recap: The verb phrases were identified and the method invocation b
 
 Experiment 3 recap: The datatype of attributes and the signature of the methods were identified for every class. The relationship between classes was defined to construct the class diagram.
 
-Now, the steps to implement the conceptual class Customer is as follows:
+#### Steps for Concrete Class Model experiment
+  
+Now, the steps for current experiment to implement the conceptual class Customer is as follows:
 
 Step 1: Complete the class diagram for the customer based on the following rules .
 
