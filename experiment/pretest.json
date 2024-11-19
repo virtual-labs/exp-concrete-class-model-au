@@ -4,10 +4,10 @@
       {
         "question":"1. The process of creating an object from a class is known as",
         "answers":{
-            "a": "a.Interfacing",
-            "b": "b.Instantiating",
-            "c": "c.Initializing",
-            "d": "d.None of the options"
+            "a": "Interfacing",
+            "b": "Instantiating",
+            "c": "Initializing",
+            "d": "None of the options"
       
       },
       "explanations": {
@@ -20,10 +20,10 @@
     {
         "question": "2. Which of these is not true about static methods?",
         "answers": {
-          "a": "a.It cannot access non static data.",
-          "b": "b.It belongs to the object and not the class.",
-          "c": "c.It can be accessed directly by the class name and doesn’t need any object.",
-          "d": "d.Can call only other static methods and cannot call a non-static method from it."
+          "a": "It cannot access non static data.",
+          "b": "It belongs to the object and not the class.",
+          "c": "It can be accessed directly by the class name and doesn’t need any object.",
+          "d": "Can call only other static methods and cannot call a non-static method from it."
         },
         "explanations": {
         },
@@ -34,14 +34,14 @@
       {
         "question": "3.Identify the access rules of      i. static methods accessing non static methods.        ii. non static methods accessing static methods.",
         "answers": {
-          "a": "a.static methods can access non-static method only through objects.",
-          "b": "b.non-static methods can access static methods directly or through the class.",
-          "c": "c.static methods can access non-static method using this keyword.",
-          "d": "d.non-static methods can access static methods using static keyword."
+          "a": "static methods can access non-static method only through objects.",
+          "b": "non-static methods can access static methods directly or through the class.",
+          "c": "static methods can access non-static method using this keyword.",
+          "d": "non-static methods can access static methods using static keyword."
         },
         "explanations": {
         },
-        "correctAnswer": "a,b",
+        "correctAnswer": "a",
         "difficulty": "beginner"
 
     }
