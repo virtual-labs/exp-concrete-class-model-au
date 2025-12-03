@@ -471,13 +471,92 @@
                     </div>
                     <p class="panel">Explanation</p>
                 </div>
+
+                  <div class="question beginner">
+                    4. Which type of relationship is modelled by aggregation?
+                  </div>
+                  
+                  <div class="answers">
+                    <div id="answer3a">
+                      <label>
+                        <input type="radio" name="question3" value="a">
+                        a: Is-A relationship
+                      </label>
+                      <a href="#" id="explanation3a" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                    <div id="answer3b">
+                      <label>
+                        <input type="radio" name="question3" value="b">
+                        b: Has-A relationship
+                      </label>
+                      <a href="#" id="explanation3b" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                    <div id="answer3c">
+                      <label>
+                        <input type="radio" name="question3" value="c">
+                        c: Part-Of relationship (where the part can exist independently)
+                      </label>
+                      <a href="#" id="explanation3c" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                    <div id="answer3d">
+                      <label>
+                        <input type="radio" name="question3" value="d">
+                        d: Both b and c
+                      </label>
+                      <a href="#" id="explanation3d" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                </div>
+
+                 <div class="question beginner">
+                    5. Which of the following is an example of composition?
+                  </div>
+                  
+                  <div class="answers">
+                    <div id="answer4a">
+                      <label>
+                        <input type="radio" name="question4" value="a">
+                        a: A car engine (which can be removed from the car).
+                      </label>
+                      <a href="#" id="explanation4a" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                    <div id="answer4b">
+                      <label>
+                        <input type="radio" name="question4" value="b">
+                        b: A computer keyboard (which can be used with different computers).
+                      </label>
+                      <a href="#" id="explanation4b" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                    <div id="answer4c">
+                      <label>
+                        <input type="radio" name="question4" value="c">
+                        c: A house's foundation (which is integral to the house).
+                      </label>
+                      <a href="#" id="explanation4c" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                    <div id="answer4d">
+                      <label>
+                        <input type="radio" name="question4" value="d">
+                        d: A student's enrollment in a course (they can unenroll).
+                      </label>
+                      <a href="#" id="explanation4d" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                </div>
+
                </div>
                 <button id="submit" class="btn btn-primary">Submit Quiz</button>
                 <div id="results"></div>
           </div>
             
             <script>
-              const myQuestions = [{"question":"1. The process of creating an object from a class is known as","answers":{"a":"Interfacing","b":"Instantiating","c":"Initializing","d":"None of the options"},"explanations":{},"correctAnswer":"b","difficulty":"beginner"},{"question":"2. Which of these is not true about static methods?","answers":{"a":"It cannot access non static data.","b":"It belongs to the object and not the class.","c":"It can be accessed directly by the class name and doesn’t need any object.","d":"Can call only other static methods and cannot call a non-static method from it."},"explanations":{},"correctAnswer":"b","difficulty":"beginner"},{"question":"3.Identify the access rules of      i. static methods accessing non static methods.        ii. non static methods accessing static methods.","answers":{"a":"static methods can access non-static method only through objects.","b":"non-static methods can access static methods directly or through the class.","c":"static methods can access non-static method using this keyword.","d":"non-static methods can access static methods using static keyword."},"explanations":{},"correctAnswer":"a","difficulty":"beginner"}];
+              const myQuestions = [{"question":"1. The process of creating an object from a class is known as","answers":{"a":"Interfacing","b":"Instantiating","c":"Initializing","d":"None of the options"},"explanations":{},"correctAnswer":"b","difficulty":"beginner"},{"question":"2. Which of these is not true about static methods?","answers":{"a":"It cannot access non static data.","b":"It belongs to the object and not the class.","c":"It can be accessed directly by the class name and doesn’t need any object.","d":"Can call only other static methods and cannot call a non-static method from it."},"explanations":{},"correctAnswer":"b","difficulty":"beginner"},{"question":"3.Identify the access rules of      i. static methods accessing non static methods.        ii. non static methods accessing static methods.","answers":{"a":"static methods can access non-static method only through objects.","b":"non-static methods can access static methods directly or through the class.","c":"static methods can access non-static method using this keyword.","d":"non-static methods can access static methods using static keyword."},"explanations":{},"correctAnswer":"a","difficulty":"beginner"},{"question":"4. Which type of relationship is modelled by aggregation?","answers":{"a":"Is-A relationship","b":"Has-A relationship","c":"Part-Of relationship (where the part can exist independently)","d":"Both b and c"},"explanations":{},"correctAnswer":"d","difficulty":"beginner"},{"question":"5. Which of the following is an example of composition?","answers":{"a":"A car engine (which can be removed from the car).","b":"A computer keyboard (which can be used with different computers).","c":"A house's foundation (which is integral to the house).","d":"A student's enrollment in a course (they can unenroll)."},"explanations":{},"correctAnswer":"c","difficulty":"beginner"}];
             </script>
               <script src="./assets/js/assessment_v2.js"></script>  
           <div class="bug-report-mobile">
