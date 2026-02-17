@@ -1,16 +1,18 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Computer Science and Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Object Oriented Programming
+<b> Experiment|     <b> 4 - Concrete Class Model
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+To implement basic class structure and object creation for a single
+concrete class in C++/Java from the class diagram.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+
+<b>Name of Developer | <b> Amrita Vishwa Vidyapeetham 
 :--|:--|
 <b> Institute | <b>  
 <b> Email id|     <b>  
