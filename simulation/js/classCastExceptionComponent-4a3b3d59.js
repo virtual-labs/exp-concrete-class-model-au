@@ -1,0 +1,12 @@
+import{_ as l,o as c,c as i,a as e,f as s,g as d,v as p,j as u,F as h,p as m,i as _}from"./index-d6e51d81.js";const y={data(){return{}},methods:{incorrect(t){var o=document.getElementById("snackbar");o.innerHTML=t,o.style.backgroundColor="red",o.className="show",setTimeout(function(){o.className=o.className.replace("show","")},3e3)},correct1(){var t=document.getElementById("snackbar");t.innerHTML="Correct",t.style.backgroundColor="green",t.className="show",setTimeout(function(){t.className=t.className.replace("show","")},3e3)},validate_one(){this.one.trim()=="3"?(this.correct1(),alert("Correct")):(this.incorrect("Try again"),alert("Incorrect, please try again"))}}},n=t=>(m("data-v-fcd00e06"),t=t(),_(),t),b=n(()=>e("header",{style:{padding:"20px"}},[e("h5",null,"HELP"),e("h1",null,"Class Cast Exception")],-1)),g=n(()=>e("div",{id:"snackbar"},"Some text some message..",-1)),v={class:"flex-row"},f=n(()=>e("div",{style:{width:"50%"}},[e("h2",null,"Theory"),e("div",{class:"outbox"},[e("pre",null,`1.  Object obj = "Hello";
+2.  Integer num = (Integer) obj; 
+            `),e("span",{id:"comment"},"//2nd line will throw a ClassCastException since we are trying to cast an object of type String to an Integer. "),e("br")]),e("div",{class:"content"},[e("p",null,"ClassCastException is a runtime exception that occurs when you try to cast an object to a type that it is not compatible with. To avoid this exception, you should always check the type of the object before casting it to another type. ")])],-1)),x={style:{width:"50%"}},w=n(()=>e("h2",null,"Try it yourself",-1)),C={class:"outbox"},I=n(()=>e("span",{id:"comment"},"//In which line excption occurs (eg:1 or 2)",-1)),j={id:"buttons",class:"relative"},k={key:0,class:"navitem"};function N(t,o,T,E,S,r){return c(),i(h,null,[b,g,e("main",null,[e("div",v,[f,e("div",x,[w,e("div",C,[e("pre",null,[s(`1.    Object obj = "Hello";
+2.    if (obj instanceof Integer) {
+3.        Integer num = (Integer) obj; 
+4.    } else {
+5.        System.out.println("obj is not an instance of Integer");
+6.    }
+        
+      `),d(e("input",{type:"text","onUpdate:modelValue":o[0]||(o[0]=a=>t.one=a)},null,512),[[p,t.one]]),s(`
+        `),I,s(`
+      `)])]),e("button",{class:"button-9",onClick:o[1]||(o[1]=a=>r.validate_one())},"Validate")])]),e("footer",null,[e("div",j,[t.currentStep===1?(c(),i("button",k,"Next")):u("",!0)])])])],64)}const H=l(y,[["render",N],["__scopeId","data-v-fcd00e06"]]);export{H as default};

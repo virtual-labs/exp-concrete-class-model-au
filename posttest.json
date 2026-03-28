@@ -1,0 +1,73 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question":"1. Show the definition for a method called myMethod that 1) is visible outside the class and can only access class variables, 2) returns an array of integers, and 3) accepts two parameters which are a String and double, in that order.",
+      "answers":{
+          "a": "public static int[] myMethod(String param1, double param2){ ... }",
+          "b": "public int[] myMethod(String param1, double param2){ ... }",
+          "c": "public []int myMethod(String param1, double param2){ ... }",
+          "d": "public static[] int myMethod(String param1, double param2){ ... }"
+    
+    },
+    "explanations": {
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+  },
+
+{
+      "question": "2. Which of the following statements is true about the concrete class model in Java?",
+      "answers": {
+        "a": "A concrete class is a class that cannot be instantiated, but can be used as a base class for other classes.",
+        "b": "A concrete class is a class that can be instantiated, and can contain both abstract and non-abstract methods.",
+        "c": "A concrete class is a class that can be instantiated, but can only contain non-abstract methods.",
+        "d": "A concrete class is a class that can be instantiated, but cannot contain any methods."
+      },
+      "explanations": {
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "3. Which of the following methods and variables would be appropriate for the Customer class in the Release a Vehicle use case scenario?",
+      "answers": {
+        "a": "Methods: makeReservation(), cancelReservation(), Variables: customerName, customerAddress",
+        "b": "Methods: releaseVehicle(), cancelReservation(), Variables: vehicleType, rentalDate",
+        "c": "Methods: makePayment(), cancelReservation(), Variables: reservationNumber, totalCost",
+        "d": "Methods: makePayment(), releaseVehicle(), Variables: rentalDuration, pickupLocation"
+      },
+      "explanations": {
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+  },
+  {
+      "question": "4. In an association, what is the key characteristic that distinguishes it from aggregation?",
+      "answers": {
+        "a": "Association implies ownership, while aggregation does not.",
+        "b": "Aggregation implies ownership, while association does not. ",
+        "c": "Association involves inheritance, while aggregation does not.",
+        "d": "Aggregation involves inheritance, while association does not."
+      },
+      "explanations": {
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. If a student class contains a list of course objects, and courses can exist independently of the student, this relationship is best described as:",
+      "answers": {
+        "a": "Composition",
+        "b": "Aggregation ",
+        "c": "Association",
+        "d": "Inheritance"
+      },
+      "explanations": {
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+    }

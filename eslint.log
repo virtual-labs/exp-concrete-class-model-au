@@ -1,0 +1,191 @@
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/ClerkCustomer-7c74b040.js
+  1:5455  warning  't' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/CongratulationsPage-d55ebe03.js
+  1:401  warning  't' is defined but never used  no-unused-vars
+  1:403  warning  'x' is defined but never used  no-unused-vars
+  1:405  warning  'v' is defined but never used  no-unused-vars
+  1:407  warning  'h' is defined but never used  no-unused-vars
+  1:409  warning  'f' is defined but never used  no-unused-vars
+  1:411  warning  'g' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/ScreenFour-e8f5f15d.js
+  20:1718  warning  'g' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/ScreenOne-f6587ec0.js
+  133:8066   warning  'd' is defined but never used  no-unused-vars
+  133:8236   warning  'd' is defined but never used  no-unused-vars
+  133:8406   warning  'd' is defined but never used  no-unused-vars
+  133:8576   warning  'd' is defined but never used  no-unused-vars
+  133:8746   warning  'd' is defined but never used  no-unused-vars
+  133:8911   warning  'd' is defined but never used  no-unused-vars
+  133:9076   warning  'd' is defined but never used  no-unused-vars
+  133:9241   warning  'd' is defined but never used  no-unused-vars
+  133:9406   warning  'd' is defined but never used  no-unused-vars
+  133:9928   warning  'd' is defined but never used  no-unused-vars
+  133:10475  warning  'd' is defined but never used  no-unused-vars
+  133:10991  warning  'd' is defined but never used  no-unused-vars
+  133:11517  warning  'd' is defined but never used  no-unused-vars
+  133:12034  warning  'd' is defined but never used  no-unused-vars
+  133:12600  warning  'd' is defined but never used  no-unused-vars
+  133:13188  warning  'd' is defined but never used  no-unused-vars
+  133:13772  warning  'd' is defined but never used  no-unused-vars
+  133:14364  warning  'd' is defined but never used  no-unused-vars
+  133:15133  warning  'd' is defined but never used  no-unused-vars
+  133:15318  warning  'd' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/ScreenThree-d2c900b0.js
+  121:3266  warning  'i' is defined but never used  no-unused-vars
+  121:3432  warning  'i' is defined but never used  no-unused-vars
+  121:3602  warning  'i' is defined but never used  no-unused-vars
+  121:3772  warning  'i' is defined but never used  no-unused-vars
+  121:3937  warning  'i' is defined but never used  no-unused-vars
+  121:4108  warning  'i' is defined but never used  no-unused-vars
+  121:4285  warning  'i' is defined but never used  no-unused-vars
+  121:4462  warning  'i' is defined but never used  no-unused-vars
+  121:4876  warning  'i' is defined but never used  no-unused-vars
+  121:5262  warning  'i' is defined but never used  no-unused-vars
+  121:5662  warning  'i' is defined but never used  no-unused-vars
+  121:6376  warning  'i' is defined but never used  no-unused-vars
+  121:6841  warning  'i' is defined but never used  no-unused-vars
+  121:7514  warning  'i' is defined but never used  no-unused-vars
+  121:8184  warning  'i' is defined but never used  no-unused-vars
+  121:9056  warning  'i' is defined but never used  no-unused-vars
+  121:9244  warning  'i' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/ScreenTwo-484e3142.js
+  121:3316  warning  's' is defined but never used  no-unused-vars
+  121:3482  warning  's' is defined but never used  no-unused-vars
+  121:3652  warning  's' is defined but never used  no-unused-vars
+  121:3822  warning  's' is defined but never used  no-unused-vars
+  121:3987  warning  's' is defined but never used  no-unused-vars
+  121:4158  warning  's' is defined but never used  no-unused-vars
+  121:4335  warning  's' is defined but never used  no-unused-vars
+  121:4512  warning  's' is defined but never used  no-unused-vars
+  121:4926  warning  's' is defined but never used  no-unused-vars
+  121:5322  warning  's' is defined but never used  no-unused-vars
+  121:5728  warning  's' is defined but never used  no-unused-vars
+  121:6449  warning  's' is defined but never used  no-unused-vars
+  121:6923  warning  's' is defined but never used  no-unused-vars
+  121:7605  warning  's' is defined but never used  no-unused-vars
+  121:8284  warning  's' is defined but never used  no-unused-vars
+  121:9165  warning  's' is defined but never used  no-unused-vars
+  121:9353  warning  's' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/ScreenZero-4978d74a.js
+  1:1335  warning  'l' is already defined         no-redeclare
+  5:430   warning  'o' is defined but never used  no-unused-vars
+  5:517   warning  'o' is defined but never used  no-unused-vars
+  5:2183  warning  'o' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/StringcompareComponent-159c8641.js
+  1:3038  warning  'a' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/abstractComponent-c3df9a2a.js
+  17:1291  warning  'n' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/arrayListComponent-5668b41b.js
+  1:2759  warning  's' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/arraysComponent-16021161.js
+  1:2958  warning  'n' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/classCastExceptionComponent-4a3b3d59.js
+  12:63  warning  'a' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/constructorWritingComponent-c4ebc820.js
+  1:2829  warning  'd' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/dateComponent-8b12631a.js
+  1:3220  warning  'n' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/extendsComponent-628a5fde.js
+  16:57  warning  'a' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/functionCallingWithObjectComponent-414a1797.js
+  1:3293  warning  'o' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/getterComponent-78d5d98c.js
+  1:2878  warning  'r' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/index-d6e51d81.js
+  1:1974   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:1996   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:3805   warning  'global' is not defined                                                    no-undef
+  1:5763   warning  't' is defined but never used                                              no-unused-vars
+  1:5872   warning  's' is defined but never used                                              no-unused-vars
+  1:5874   warning  'o' is defined but never used                                              no-unused-vars
+  1:6401   warning  't' is defined but never used                                              no-unused-vars
+  1:6510   warning  't' is defined but never used                                              no-unused-vars
+  1:8199   warning  'e' is defined but never used                                              no-unused-vars
+  1:8201   warning  't' is defined but never used                                              no-unused-vars
+  1:8229   warning  'e' is defined but never used                                              no-unused-vars
+  1:8231   warning  't' is defined but never used                                              no-unused-vars
+  1:9830   warning  't' is defined but never used                                              no-unused-vars
+  1:11854  warning  't' is defined but never used                                              no-unused-vars
+  1:13613  warning  'r' is assigned a value but never used                                     no-unused-vars
+  1:14345  warning  'e' is defined but never used                                              no-unused-vars
+  1:14657  warning  'e' is defined but never used                                              no-unused-vars
+  1:14690  warning  't' is assigned a value but never used                                     no-unused-vars
+  1:15939  warning  'n' is defined but never used                                              no-unused-vars
+  1:18121  warning  'o' is assigned a value but never used                                     no-unused-vars
+  1:18133  warning  'i' is assigned a value but never used                                     no-unused-vars
+  1:21129  warning  'n' is assigned a value but never used                                     no-unused-vars
+  1:23611  warning  'T' is assigned a value but never used                                     no-unused-vars
+  1:23639  warning  'N' is assigned a value but never used                                     no-unused-vars
+  1:23796  warning  'Je' is assigned a value but never used                                    no-unused-vars
+  1:24193  warning  Setter cannot return a value                                               no-setter-return
+  1:24633  warning  Setter cannot return a value                                               no-setter-return
+  1:24799  warning  'n' is assigned a value but never used                                     no-unused-vars
+  1:25024  warning  Setter cannot return a value                                               no-setter-return
+  1:29107  warning  'n' is defined but never used                                              no-unused-vars
+  1:46144  warning  'n' is defined but never used                                              no-unused-vars
+  1:49203  warning  's' is defined but never used                                              no-unused-vars
+  1:49816  warning  Empty block statement                                                      no-empty
+  1:50205  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:53856  warning  'e' is defined but never used                                              no-unused-vars
+  1:53858  warning  't' is defined but never used                                              no-unused-vars
+  1:54272  warning  Redundant double negation                                                  no-extra-boolean-cast
+  5:1716   warning  Unnecessary escape character: \/                                           no-useless-escape
+  5:2947   warning  'u' is defined but never used                                              no-unused-vars
+  5:10621  warning  Empty block statement                                                      no-empty
+  5:14725  warning  'C' is defined but never used                                              no-unused-vars
+  5:20307  warning  'K' is defined but never used                                              no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/interfaceComponent-2ea5719b.js
+  18:1424  warning  'o' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/newVariableComponent-b0b490fe.js
+  1:2335  warning  'n' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/nullPointerExceptionComponent-6c55e274.js
+  14:71  warning  'l' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/objectCreationComponent-d7e33606.js
+  1:2330  warning  's' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/parseExceptionComponent-54b452d8.js
+  11:472  warning  'o' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/passingArgumentsToFunctionsComponent-0560b242.js
+  13:1167  warning  'a' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/printFunctionComponent-3ab2cd42.js
+  1:2618  warning  'o' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/setterComponent-b5930c4b.js
+  1:2818  warning  'd' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/superKeywordComponent-89740d19.js
+  38:73  warning  'o' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/thisComponent-fbd02dca.js
+  14:1071  warning  'o' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-concrete-class-model-au/exp-concrete-class-model-au/experiment/simulation/js/tryCatchComponent-2a1aa328.js
+  10:65  warning  's' is defined but never used  no-unused-vars
+
+✖ 129 problems (0 errors, 129 warnings)
+  0 errors and 1 warning potentially fixable with the `--fix` option.
+

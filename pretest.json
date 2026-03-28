@@ -1,0 +1,74 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question":"1. The process of creating an object from a class is known as",
+        "answers":{
+            "a": "Interfacing",
+            "b": "Instantiating",
+            "c": "Initializing",
+            "d": "None of the options"
+      
+      },
+      "explanations": {
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+    },
+    
+
+    {
+        "question": "2. Which of these is not true about static methods?",
+        "answers": {
+          "a": "It cannot access non static data.",
+          "b": "It belongs to the object and not the class.",
+          "c": "It can be accessed directly by the class name and doesn’t need any object.",
+          "d": "Can call only other static methods and cannot call a non-static method from it."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+
+      {
+        "question": "3. Identify the access rules of      i. static methods accessing non static methods.        ii. non static methods accessing static methods.",
+        "answers": {
+          "a": "static methods can access non-static method only through objects.",
+          "b": "non-static methods can access static methods directly or through the class.",
+          "c": "static methods can access non-static method using this keyword.",
+          "d": "non-static methods can access static methods using static keyword."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+    },
+        {
+        "question": "4. Which type of relationship is modelled by aggregation?",
+        "answers": {
+          "a": "Is-A relationship",
+          "b": "Has-A relationship",
+          "c": "Part-Of relationship (where the part can exist independently)",
+          "d": "Both b and c"
+        },
+        "explanations": {
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+          {
+        "question": "5. Which of the following is an example of composition?",
+        "answers": {
+          "a": "A car engine (which can be removed from the car).",
+          "b": "A computer keyboard (which can be used with different computers).",
+          "c": "A house's foundation (which is integral to the house).",
+          "d": "A student's enrollment in a course (they can unenroll)."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+      }
